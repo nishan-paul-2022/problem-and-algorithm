@@ -17,7 +17,7 @@
 
 **ALGORITHM :**
 - [ADHOC](https://github.com/nishan-paul-2022/problem-and-algorithm/tree/main/ALGORITHM%20-%20ADHOC)
-- [DATA STRUCTURE](https://github.com/nishan-paul-2022/problem-and-algorithm/tree/main/ALGORITHM%20-%20DATA STRUCTURE)
+- [DATA STRUCTURE](https://github.com/nishan-paul-2022/problem-and-algorithm/tree/main/ALGORITHM%20-%20DATA%20STRUCTURE)
 - [DYNAMIC PROGRAMMING](https://github.com/nishan-paul-2022/problem-and-algorithm/tree/main/ALGORITHM%20-%20DYNAMIC-%20PROGRAMMING)
 - [GAME THEORY](https://github.com/nishan-paul-2022/problem-and-algorithm/tree/main/ALGORITHM%20-%20GAME%20THEORY)
 - [GRAPH](https://github.com/nishan-paul-2022/problem-and-algorithm/tree/main/ALGORITHM%20-%20GRAPH)
