@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"CODE - 1343A","srcPath":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1343A.cpp","tests":[{"id":1591824850631,"input":"7\n3\n6\n7\n21\n28\n999999999\n999999984","output":"1\n2\n1\n7\n4\n333333333\n333333328"}],"timeLimit":3000,"url":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1343A.cpp"}

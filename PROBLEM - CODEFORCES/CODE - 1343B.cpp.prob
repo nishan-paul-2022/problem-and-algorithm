@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"CODE - 1343B","srcPath":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1343B.cpp","tests":[{"id":1591812928185,"input":"5\n2\n4\n6\n8\n10","output":"NO\nYES\n2 4 1 5\nNO\nYES\n2 4 6 8 1 3 5 11\nNO"}],"timeLimit":3000,"url":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1343B.cpp"}
