@@ -9,4 +9,5 @@ REBUILD
 /**/*.o
 /**/*.O
 /**/unsolved
-/**/zmax
+/**/zmax.py
+/**/desktop.ini
