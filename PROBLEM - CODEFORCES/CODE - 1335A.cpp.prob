@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"CODE - 1335A","srcPath":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1335A.cpp","tests":[{"id":1591767820237,"input":"6\n7\n1\n2\n3\n2000000000\n763243547","output":"3\n0\n0\n1\n999999999\n381621773"}],"timeLimit":3000,"url":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1335A.cpp"}

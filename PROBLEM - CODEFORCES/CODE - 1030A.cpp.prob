@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"CODE - 1030A","srcPath":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1030A.cpp","tests":[{"id":1591753901381,"input":"3\n0 0 1","output":"HARD"},{"id":1591754533168,"input":"1\n0","output":"EASY"}],"timeLimit":3000,"url":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 1030A.cpp"}

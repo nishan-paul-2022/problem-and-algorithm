@@ -1,0 +1,12 @@
+- PRACTICE C/
+- PRACTICE C++/
+REBUILD
+/**/**.vscode
+/**/*.idea
+/**/*.tsp
+/**/*.exe
+/**/*.EXE
+/**/*.o
+/**/*.O
+/**/unsolved
+/**/zmax

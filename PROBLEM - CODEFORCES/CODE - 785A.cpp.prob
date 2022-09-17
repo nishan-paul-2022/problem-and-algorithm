@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"CODE - 785A","srcPath":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 785A.cpp","tests":[{"id":1591755530114,"input":"4\nIcosahedron\nCube\nTetrahedron\nDodecahedron","output":"42"}],"timeLimit":3000,"url":"d:\\CODE\\C++\\PROBLEM - CODEFORCES\\CODE - 785A.cpp"}
