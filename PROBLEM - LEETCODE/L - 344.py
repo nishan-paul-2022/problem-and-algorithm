@@ -1,8 +1,12 @@
 class Solution:
+	def _(self, s):
+		ans = ''
+		for i in s:
+			ans = i + ans
+		return ans
+
 	def reverseString(self, s):
-		"""
-		Do not return anything, modify s in-place instead.
-		"""
+		""" Do not return anything, modify s in-place instead. """
 		idx = len(s)
 		j = idx
 		idx = int(idx/2)
